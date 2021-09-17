@@ -1,4 +1,6 @@
-### Hi there 👋
+### Intro
+
+I am a Danish developer. You can read more about me on [my website](https://www.tbc.codes).
 
 <!-- Needs more info here -->
 
