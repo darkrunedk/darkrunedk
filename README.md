@@ -1,6 +1,6 @@
 ### Intro
 
-I am a Danish developer. You can read more about me on [my website](https://www.tbc.codes).
+I am a Danish developer. You can read more about me on [my website](https://www.tbc.codes){:target="_blank"}.
 
 Native JavaScript Component projects:
 - [Profile card](https://github.com/darkrunedk/Profile-card)
